@@ -1,4 +1,4 @@
-package com.nibado.example.jwtangspr;
+package com.beep5.secure;
 
 import io.jsonwebtoken.Claims;
 

@@ -22,7 +22,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.nibado.example.jwtangspr.WebApplication</mainClass>
+                            <mainClass>com.beep5.secure.WebApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,4 +1,4 @@
-package com.nibado.example.jwtangspr;
+package com.beep5.secure;
 
 import java.util.Arrays;
 import java.util.Date;
